@@ -1,0 +1,44 @@
+.jumbotron{
+
+    text-align: center;    
+
+    height: 50px;
+
+}
+
+body{
+
+    background-color: white;
+
+}
+
+h1{
+
+    color: white;
+
+    margin-top: 0px;
+
+    margin-bottom: 10px;
+
+    background-color: brown;
+
+}
+
+.card{
+
+    margin-top: 8px;
+
+    background-color:white;
+
+}
+
+.card-header{
+
+    color: white;
+
+    margin-top: 8px;
+
+    background-color:blue;
+
+}
+
